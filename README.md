@@ -6,6 +6,8 @@ You can find me in the [NaK Discord](https://discord.gg/9JWQzSeUWt)
 
 If you want to support the things I put out, I do have a [Ko-Fi](https://ko-fi.com/sulfurnitride) I will never charge money for any of my content.
 
+The Nexus release if you prefer [here](https://www.nexusmods.com/site/mods/1679). The Github for source code or the release [here](https://github.com/SulfurNitride/Rust-BSA-BA2-Handler).
+
 ## Supported Formats
 
 - **BSA** — Morrowind, Oblivion, Fallout 3, Fallout: New Vegas, Skyrim LE, Skyrim SE
