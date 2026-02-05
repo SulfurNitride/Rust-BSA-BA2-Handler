@@ -1,0 +1,11 @@
+/target/
+*.bsa
+*.ba2
+/Output/
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+.env

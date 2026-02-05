@@ -1,0 +1,22 @@
+[package]
+name = "bsa-ba2-tool"
+version = "0.0.1"
+edition = "2021"
+
+[dependencies]
+slint = "1.14.1"
+rfd = "0.17"
+ba2 = "3.0.1"
+rayon = "1.11.0"
+anyhow = "1.0"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+walkdir = "2.5"
+flate2 = "1.1"
+lz4_flex = "0.11"
+byteorder = "1.5"
+
+[profile.release]
+lto = "thin"
+strip = true
+codegen-units = 1
